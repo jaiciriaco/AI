@@ -1,15 +1,17 @@
-# Recursos pendientes y excluidos
+# Datos y recursos utilizados
 
-## Faltan en los archivos recibidos
+## Datasets externos de Visión Artificial PEC3
 
-| Proyecto | Buscar en el ordenador | Uso |
+Se utilizaron los siguientes datasets durante el trabajo. Se mantienen fuera de GitHub por su tamaño; su subida no está pendiente. Para reproducir los experimentos es necesario disponer de ellos localmente en las rutas indicadas.
+
+| Proyecto | Recurso utilizado | Uso |
 | --- | --- | --- |
 | Visión Artificial PEC3 | `PEC3_VA/data/REY_DATASET/`, incluido `traza_REY.csv` y las imágenes | Notebooks 00–06: localización y orientación de Rey |
 | Visión Artificial PEC3 | `PEC3_VA/data/SMART-OM/`, con imágenes y anotaciones | Notebooks 07–08 y segmentación posterior |
 | Visión Artificial PEC3 | `PEC3_VA/data/imgsMIIA_colab/raw_zips/` con los ZIP colaborativos | Notebooks 09–14: preparación y segmentación oral |
 | Visión Artificial PEC3 | `PEC3_VA/data/aportacion_jaime_raw/jimenez_mario.zip` | Notebook 15, preparación de la aportación propia |
 
-El README original menciona `imgsMIIA_jaime.zip`, que tampoco está incluido. Puede servir para recuperar la aportación final, pero no sustituye necesariamente a todos los datos crudos que necesita el notebook 15.
+La aportación final `imgsMIIA_jaime.zip`, mencionada en la memoria de la entrega, también se mantiene fuera de GitHub.
 
 ## Incluidos en el ZIP, excluidos del repositorio
 
