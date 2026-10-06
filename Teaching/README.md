@@ -6,6 +6,7 @@ Material docente en español seleccionado de las carpetas de trabajo de Jaime Ci
 
 | Carpeta | Contenido | Estado |
 | --- | --- | --- |
+| [week-01/](week-01/) | Introducción a IA, Big Data y Python: presentaciones, apuntes y tutorial | Tutorial ejecutado; PDF de clase |
 | `statistics/` | 6 lecciones: álgebra lineal, cálculo, probabilidad, estadística, inferencia/A-B y proyecto integrador | Código ejecutado secuencialmente |
 | `statistics/soluciones/` | 6 cuadernos de soluciones | Código ejecutado secuencialmente |
 | `python/exercises/` | Ejercicios de las semanas 2, 3 y 4 | Plantillas para completar, no soluciones |
@@ -26,7 +27,7 @@ Los cuadernos de estadística generan datos sintéticos y no requieren datasets 
 
 ## Criterio de selección y revisión
 
-Se conservan lecciones autocontenidas y ejercicios con una finalidad clara. No se incluyen PDFs exportados, manuales recopilados, resultados voluminosos, copias antiguas ni cuadernos de clase con errores de sintaxis o ejecución incompleta. Las hojas de ejercicios están vacías deliberadamente.
+Se conservan lecciones autocontenidas y ejercicios con una finalidad clara. Se incluyen los apuntes y presentaciones propios de la semana 1. No se incluyen exportaciones redundantes, manuales recopilados, resultados voluminosos, copias antiguas ni cuadernos de clase con errores de sintaxis o ejecución incompleta. Las hojas de ejercicios están vacías deliberadamente.
 
 Se han limpiado outputs y metadatos de ejecución. La regresión utiliza `numpy.linalg.lstsq`; los p-valores Monte Carlo incorporan la corrección `(b+1)/(B+1)`.
 
