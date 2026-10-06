@@ -6,7 +6,7 @@ Material docente en español seleccionado de las carpetas de trabajo de Jaime Ci
 
 | Carpeta | Contenido | Estado |
 | --- | --- | --- |
-| [week-01/](week-01/) | Introducción a IA, Big Data y Python: presentaciones, apuntes y tutorial | Tutorial ejecutado; PDF de clase |
+| [python/exercises/Ejercicios_Semana_1/](python/exercises/Ejercicios_Semana_1/) | Introducción a IA, Big Data y Python: presentaciones, apuntes y tutorial | Tutorial ejecutado; PDF de clase |
 | `statistics/` | 6 lecciones: álgebra lineal, cálculo, probabilidad, estadística, inferencia/A-B y proyecto integrador | Código ejecutado secuencialmente |
 | `statistics/soluciones/` | 6 cuadernos de soluciones | Código ejecutado secuencialmente |
 | `python/exercises/` | Ejercicios de las semanas 2, 3 y 4 | Plantillas para completar, no soluciones |

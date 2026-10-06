@@ -7,7 +7,7 @@ Material docente de Jaime Ciriaco para las primeras clases. Presentaciones y doc
 1. [Presentación de IA y Big Data](Teoría_IA_y_BigData_PPT.pdf) y [documento de contexto](Teoría_IA_y_BigData_Doc.pdf).
 2. [Presentación de Python](Iniciación_Python_PPT.pdf) y [documento de contexto](Iniciación_Python_Doc.pdf).
 3. [Tutorial práctico de Python](tutorial_python.py): cadenas, variables, operadores, condicionales, bucles y funciones.
-4. Continuar con los [ejercicios de las semanas 2 a 4](../python/exercises/).
+4. Continuar con los [ejercicios de las semanas 2 a 4](../).
 
 ## Ejecutar el tutorial
 
