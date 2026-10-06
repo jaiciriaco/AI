@@ -1,0 +1,5 @@
+funcion,mu,lambda,ng,ejecuciones,modo_sigma,recomb,supervivencia,sigma_inicial,epsilon_exito,TE,VAMM,PEX,tiempo_seg
+potencias,30,200,1200,5,1,discreta_global,"(mu,lambda)",0.3,1e-06,1.0,6.432959707251461e-08,6030.0,9.84489917755127
+potencias,30,200,1200,5,1,intermedia_global,(mu+lambda),0.3,1e-06,1.0,3.651231640278485e-09,8750.0,24.648746013641357
+potencias,30,200,1200,5,n,discreta_global,"(mu,lambda)",0.3,1e-06,1.0,5.087869224288491e-27,5630.0,16.719504833221436
+potencias,30,200,1200,5,n,intermedia_global,(mu+lambda),0.3,1e-06,1.0,5.7029168802442445e-11,25510.0,54.93621516227722

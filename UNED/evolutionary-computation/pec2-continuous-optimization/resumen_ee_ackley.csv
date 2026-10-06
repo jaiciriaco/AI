@@ -1,0 +1,5 @@
+funcion,mu,lambda,ng,ejecuciones,modo_sigma,recomb,supervivencia,sigma_inicial,epsilon_exito,TE,VAMM,PEX,tiempo_seg
+ackley,30,200,1200,5,1,discreta_global,"(mu,lambda)",1.0,1e-06,1.0,2.672795318403587e-12,11390.0,9.716806650161743
+ackley,30,200,1200,5,1,intermedia_global,(mu+lambda),1.0,1e-06,1.0,9.348077867343818e-13,10030.0,24.510721445083618
+ackley,30,200,1200,5,n,discreta_global,"(mu,lambda)",1.0,1e-06,1.0,3.2597036181414295e-12,16990.0,16.73291254043579
+ackley,30,200,1200,5,n,intermedia_global,(mu+lambda),1.0,1e-06,1.0,8.992806499463768e-13,25950.0,43.70758843421936

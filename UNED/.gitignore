@@ -1,0 +1,13 @@
+__pycache__/
+*.py[cod]
+.ipynb_checkpoints/
+.venv/
+.env
+*.keras
+*.h5
+*.pt
+logs*/
+runs/
+outputs/
+yolo/
+computer-vision/pec3/data/
