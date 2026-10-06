@@ -12,10 +12,10 @@ Detección de líneas, homografías, características y seguimiento. Ejecutar de
 
 16 notebooks numerados: localización/orientación de la figura de Rey; preparación de SMART-OM e imgsMIIA; segmentación oral con U-Net y YOLO; preparación de una aportación de datos.
 
-Instalar `requirements-deep.txt` en un entorno separado. Iniciar Jupyter desde `pec3/notebooks/`: `BASE_DIR` se resuelve al directorio padre (`pec3/`), sustituyendo la ruta absoluta del ordenador original. Ejecutar los cuadernos en orden, tras aportar los datos descritos en [MISSING_FILES.md](../MISSING_FILES.md). Las carpetas `outputs/` y `yolo/` son generadas, no código faltante.
+Instalar `requirements-deep.txt` en un entorno separado. Iniciar Jupyter desde `pec3/notebooks/`: `BASE_DIR` se resuelve al directorio padre (`pec3/`), sustituyendo la ruta absoluta del ordenador original. Ejecutar los cuadernos en orden. Para reproducirlos se necesitan localmente los [datasets utilizados](../MISSING_FILES.md), excluidos de GitHub por su tamaño. Las carpetas `outputs/` y `yolo/` son generadas, no código faltante.
 
 ## Estado
 
-Código y sintaxis revisados. No se ejecutaron interfaces, cámaras ni entrenamientos. Los datasets principales de PEC3 no venían en la entrega. Las memorias `report.pdf` son las originales y sus resultados no se han vuelto a medir.
+Código y sintaxis revisados. No se ejecutaron interfaces, cámaras ni entrenamientos. En PEC3 se utilizaron REY_DATASET, SMART-OM e imgsMIIA. Estos datasets se mantienen fuera del repositorio por su tamaño y no están pendientes de subir. Las memorias `report.pdf` son las originales y sus resultados no se han vuelto a medir.
 
 Se omiten del repositorio la fotografía de `data/face/`, los dibujos de `data/DibujosNPT/`, las tomas fallidas de calibración, vídeos y ejemplos auxiliares no usados. Las dos primeras carpetas sí venían en el ZIP y deben recuperarse localmente para los ejercicios que las usan; no son archivos perdidos. Se conservan las referencias en código.
