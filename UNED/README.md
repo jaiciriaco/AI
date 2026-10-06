@@ -10,7 +10,7 @@ Trabajos académicos de Jaime Ciriaco Beaumont. Código, cuadernos e informes or
 | [Aprendizaje Profundo](deep-learning/) | MLP/MNIST, DCGAN/CIFAR-10 y clasificación de noticias |
 | [Visión Artificial](computer-vision/) | Procesamiento, calibración, características y aprendizaje profundo |
 
-Consultar [VALIDATION.md](VALIDATION.md) para el alcance real de las comprobaciones y [MISSING_FILES.md](MISSING_FILES.md) para recursos pendientes.
+Consultar [VALIDATION.md](VALIDATION.md) para el alcance real de las comprobaciones y [datos y recursos utilizados](MISSING_FILES.md) para los datasets excluidos del repositorio.
 
 ## Criterio editorial
 
